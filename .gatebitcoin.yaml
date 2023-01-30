@@ -1,0 +1,20 @@
+
+juhe:
+  apikey: '**************'
+
+gateio:
+  cache.loss: 100
+  cache.time.parseduration: -1m
+  cache.time.newticker: 20
+  dingding: **************
+  apikey: '**************'
+  secretkey: '**************'
+
+# 增加了md文件
+
+log:
+  line: true
+  level: 0
+  path: 'C:\Users\chengkenlee\log'
+  console: true
+
